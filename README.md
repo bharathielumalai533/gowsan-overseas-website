@@ -1,2 +1,15 @@
-# gowsan-overseas-website
-Developed a responsive overseas education consultancy website to help students explore international study opportunities. Built with a modern user interface, responsive design, reusable components, and intuitive navigation to enhance user experience and accessibility.
+# GowSan Overseas Education Consultancy
+
+Responsive overseas education consultancy website built using React.js and Tailwind CSS.
+
+## Live Demo
+🔗 https://your-project-name.vercel.app
+
+## GitHub Repository
+🔗 https://github.com/bharathielumalai533/gowsan-overseas-website/tree/main
+
+## Features
+- Responsive Design
+- Student Study Abroad Information
+- Modern UI
+- Fast Performance
