@@ -3,7 +3,7 @@
 Responsive overseas education consultancy website built using React.js and Tailwind CSS.
 
 ## Live Demo
-🔗 https://your-project-name.vercel.app
+🔗 https://gowsan-overseas-website.vercel.app/
 
 ## GitHub Repository
 🔗 https://github.com/bharathielumalai533/gowsan-overseas-website/tree/main
